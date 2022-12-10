@@ -1,2 +1,2 @@
 # ndrs
-dotnet db redundancy sync,dotnet 数据库冗余同步
+dotnet db replication system,dotnet 数据库副本系统
